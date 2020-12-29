@@ -232,10 +232,11 @@ span {
 }
 
 .qualList li {
-    position: flex;
+    display: flex;
     color: #555;
     font: bold italic 45px/1.5 Roboto;
     margin-bottom: 80px;
+    
     
 }
 
@@ -248,6 +249,14 @@ span {
     text-align: right;
     margin-left: 80px;
     margin-top: 35px;
+}
+
+.qualList a {
+    color: #46bedf;
+}
+
+.qualList a:hover {
+    color: #f05a24
 }
 
 span {
@@ -311,5 +320,5 @@ span {
 /* Copyright */
 .copyright {
     font-size:12px;
-    margin-bottom: 5vh;
+    margin-bottom: 3vh;
 }
