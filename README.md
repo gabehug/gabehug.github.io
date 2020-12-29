@@ -5,7 +5,7 @@ This website was designed entirely with basic HTML and CSS. I hope to add Javasc
 
 Please click on the link below to view the website hosted on Github Pages:
 
-https://gabielhug.github.io
+https://gabrielhug.github.io
 
 
 
