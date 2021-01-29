@@ -235,7 +235,7 @@ span {
 .qualList li {
     
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     color: #555;
     font: bold italic 45px/1.5 Roboto;
     margin-bottom: 80px;
