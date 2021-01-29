@@ -220,6 +220,7 @@ span {
     margin-top: 5vh;
     text-align: right;
     margin-right: 10%;
+    
 }
 
 .qualList {
@@ -232,7 +233,9 @@ span {
 }
 
 .qualList li {
+    
     display: flex;
+    justify-content: space-between;
     color: #555;
     font: bold italic 45px/1.5 Roboto;
     margin-bottom: 80px;
@@ -242,13 +245,14 @@ span {
 
 .qualList p {
     font-family: Roboto;
-    font-weight: 400;
     color: #555;
     font-size: 14px;
+    font-weight: 400;
     padding-right: 80px;
-    text-align: right;
+    text-align:justify;
     margin-left: 80px;
     margin-top: 35px;
+    
 }
 
 .qualList a {
