@@ -5,4 +5,4 @@ This website was designed entirely with basic HTML and CSS. I hope to add Javasc
 
 
 
-[Click here](gabielhug.github.io) to see my Website hosted on Github Pages!
+[Click here](gabehug.github.io) to see my Website hosted on Github Pages!
